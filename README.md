@@ -5,9 +5,9 @@ Projeto que visa facilitar o preenchimento e agilizar o fluxo de trabalho
 
 - Funcionalidades
     - [x] Copiar e Colar de forma prática
-    - Centralizar informações
-    - Exportar conteúdo formatado
-    - Copiar conteúdo formatado
+    - [x] Centralizar informações
+    - [x] Exportar conteúdo formatado
+    - [x] Copiar conteúdo formatado
 
 
 ```bash
